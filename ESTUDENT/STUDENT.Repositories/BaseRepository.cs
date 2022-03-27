@@ -38,7 +38,7 @@ namespace ESTUDENT.Repositories
         /// <returns></returns>
         public List <TEntity> ReadAll()
         {
-            SimpleCRUD.SetDialect(SimpleCRUD.Dialect.MySQL);
+           
             var connection = new MySqlConnection(connectionString);
             List <TEntity>? results = connection.GetList<TEntity>().ToList();
             return results;

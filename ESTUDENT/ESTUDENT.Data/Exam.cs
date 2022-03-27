@@ -12,7 +12,7 @@ namespace ESTUDENT.Data
     {
 
         [Column("description")]
-        public int Description { get; set; }
+        public string Description { get; set; }
         
         [Column("professor")]
         public string Professor { get; set; }
