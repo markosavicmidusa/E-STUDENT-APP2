@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ESTUDENT.Data
 {
-    public class StudentExam
+    public class StudentExam : Base
     {
     }
 }
