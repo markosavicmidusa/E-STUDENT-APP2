@@ -68,3 +68,17 @@ D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\obj\Debug\net6.0\refint\ESTUDENT.Web.dll
 D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\obj\Debug\net6.0\ESTUDENT.Web.pdb
 D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\obj\Debug\net6.0\ESTUDENT.Web.genruntimeconfig.cache
 D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\obj\Debug\net6.0\ref\ESTUDENT.Web.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\bin\Debug\net6.0\Dapper.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\bin\Debug\net6.0\Dapper.SimpleCRUD.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\bin\Debug\net6.0\Google.Protobuf.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\bin\Debug\net6.0\MySql.Data.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\bin\Debug\net6.0\ZstdNet.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\bin\Debug\net6.0\ESTUDENT.Data.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\bin\Debug\net6.0\ESTUDENT.Repositories.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\bin\Debug\net6.0\ESTUDENT.Repositories.pdb
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web\bin\Debug\net6.0\ESTUDENT.Data.pdb

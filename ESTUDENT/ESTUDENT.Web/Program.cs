@@ -1,6 +1,8 @@
+using ESTUDENT.Repositories;
 using ESTUDENT.Web.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +15,12 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
+
+// Service product Repository zbog koriscenja u Home Conbtroleru
+
+builder.Services.AddSingleton<IExamRepository, ExamRepository> ();
+
+
 
 var app = builder.Build();
 

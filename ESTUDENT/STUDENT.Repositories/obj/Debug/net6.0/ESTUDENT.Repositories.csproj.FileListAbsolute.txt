@@ -1,0 +1,15 @@
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\bin\Debug\net6.0\ESTUDENT.Repositories.deps.json
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\bin\Debug\net6.0\ESTUDENT.Repositories.dll
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\bin\Debug\net6.0\ESTUDENT.Repositories.pdb
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\bin\Debug\net6.0\ESTUDENT.Data.dll
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\bin\Debug\net6.0\ESTUDENT.Data.pdb
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\obj\Debug\net6.0\ESTUDENT.Repositories.csproj.AssemblyReference.cache
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\obj\Debug\net6.0\ESTUDENT.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\obj\Debug\net6.0\ESTUDENT.Repositories.AssemblyInfoInputs.cache
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\obj\Debug\net6.0\ESTUDENT.Repositories.AssemblyInfo.cs
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\obj\Debug\net6.0\ESTUDENT.Repositories.csproj.CoreCompileInputs.cache
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\obj\Debug\net6.0\ESTUDENT.Repositories.csproj.CopyComplete
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\obj\Debug\net6.0\ESTUDENT.Repositories.dll
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\obj\Debug\net6.0\refint\ESTUDENT.Repositories.dll
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\obj\Debug\net6.0\ESTUDENT.Repositories.pdb
+D:\ISPIT .NET\ESTUDENT\STUDENT.Repositories\obj\Debug\net6.0\ref\ESTUDENT.Repositories.dll

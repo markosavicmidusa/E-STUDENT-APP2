@@ -10,16 +10,16 @@ using MySql.Data.MySqlClient;
 
 namespace ESTUDENT.Repositories
 {
-    public interface IExamRepository<Exam> : IBaseRepository<Exam> //where TEntity : class
-    {
+    public interface IExamRepository : IBaseRepository<Exam>{
 
     }
-    public class ExamRepository : BaseRepository<Exam>, IExamRepository<Exam>
+
+
+    public class ExamRepository : BaseRepository<Exam>, IExamRepository
     {
         public ExamRepository(IConfiguration configuration) : base(configuration)
         {
         }
-
-
     }
+
 }
