@@ -1,3 +1,4 @@
+using Dapper;
 using ESTUDENT.Repositories;
 using ESTUDENT.Web.Data;
 using Microsoft.AspNetCore.Identity;
@@ -19,6 +20,10 @@ builder.Services.AddControllersWithViews();
 // Service product Repository zbog koriscenja u Home Conbtroleru
 
 builder.Services.AddSingleton<IExamRepository, ExamRepository> ();
+
+// adding dapper crud beacuse the project is instanced with one type of mysql querries
+
+SimpleCRUD.SetDialect(SimpleCRUD.Dialect.MySQL);
 
 
 
