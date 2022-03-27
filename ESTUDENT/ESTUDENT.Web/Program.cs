@@ -23,6 +23,9 @@ builder.Services.AddControllersWithViews();
 // Service product Repository zbog koriscenja u Home Conbtroleru
 
 builder.Services.AddSingleton<IExamRepository, ExamRepository> ();
+builder.Services.AddSingleton<IStudentRepository, StudentRepository>();
+builder.Services.AddSingleton<IStudentExamRepository, StudentExamRepository>();
+
 
 // adding dapper crud beacuse the project is instanced with one type of mysql querries
 //vazi globalno
