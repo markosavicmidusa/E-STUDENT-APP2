@@ -17,13 +17,17 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 
+
+//DODATO U RAZVVOJU
+
 // Service product Repository zbog koriscenja u Home Conbtroleru
 
 builder.Services.AddSingleton<IExamRepository, ExamRepository> ();
 
 // adding dapper crud beacuse the project is instanced with one type of mysql querries
+//vazi globalno
 
-SimpleCRUD.SetDialect(SimpleCRUD.Dialect.MySQL);
+// SimpleCRUD.SetDialect(SimpleCRUD.Dialect.MySQL);
 
 
 

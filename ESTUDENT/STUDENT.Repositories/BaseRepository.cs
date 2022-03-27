@@ -22,6 +22,11 @@ namespace ESTUDENT.Repositories
 
         public BaseRepository(IConfiguration configuration)
         {
+            // adding dapper crud beacuse the project is instanced with one type of mysql querries
+            // local
+
+            SimpleCRUD.SetDialect(SimpleCRUD.Dialect.MySQL);
+
             this.configuration = configuration;
             this.connectionString = configuration.GetConnectionString("DefaultConnection");
         }
