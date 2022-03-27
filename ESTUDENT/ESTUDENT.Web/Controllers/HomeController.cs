@@ -20,6 +20,7 @@ namespace ESTUDENT.Web.Controllers
         public IActionResult Index()
         {
             List<Exam> results = productRepository.ReadAll();
+            Console.WriteLine(results);
             return View();
         }
 
