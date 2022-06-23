@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ESTUDENT.Data;
 using Microsoft.Extensions.Configuration;
+using MySql.Data.MySqlClient;
 
 namespace ESTUDENT.Repositories
 {
@@ -16,6 +17,8 @@ namespace ESTUDENT.Repositories
     {
         public StudentRepository(IConfiguration configuration) : base(configuration)
         {
+
         }
+      
     }
 }

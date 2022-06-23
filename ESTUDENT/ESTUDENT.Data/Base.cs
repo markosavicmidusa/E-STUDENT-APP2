@@ -16,7 +16,7 @@ namespace ESTUDENT.Data
         public string Name { get; set; }
 
         [Column("year")]
-        public string Year { get; set; }
+        public int Year { get; set; }
 
     }
 }

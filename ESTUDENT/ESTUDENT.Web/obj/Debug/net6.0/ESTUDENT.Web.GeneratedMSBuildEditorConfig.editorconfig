@@ -15,6 +15,50 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\ISPIT .NET\ESTUDENT\ESTUDENT.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Areas/Administration/Views/Exam/ActiveExams.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcRXhhbVxBY3RpdmVFeGFtcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Areas/Administration/Views/Exam/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcRXhhbVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Areas/Administration/Views/Exam/Exams.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcRXhhbVxFeGFtcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Areas/Administration/Views/Exam/RegisteredExams.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcRXhhbVxSZWdpc3RlcmVkRXhhbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Areas/Administration/Views/Exam/Rows.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcRXhhbVxSb3dzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Areas/Administration/Views/Student/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Areas/Administration/Views/Student/Rows.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcU3R1ZGVudFxSb3dzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Areas/Administration/Views/Student/Students.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcU3R1ZGVudFxTdHVkZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Areas/Administration/Views/Student/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcU3R1ZGVudFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Areas/Administration/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Areas/Administration/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -27,8 +71,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Views/Shared/CultureDropdown.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEN1bHR1cmVEcm9wZG93bi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Views/Shared/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Views/Shared/Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5hdmJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Views/Shared/Scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNjcmlwdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Views/Shared/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNldHRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Views/Shared/Sidenavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNpZGVuYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Views/Shared/Styles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFN0eWxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ISPIT .NET/ESTUDENT/ESTUDENT.Web/Views/Shared/_LoginPartial.cshtml]

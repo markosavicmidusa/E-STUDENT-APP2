@@ -1,0 +1,12 @@
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Models\bin\Debug\net6.0\ESTUDENT.Models.deps.json
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Models\bin\Debug\net6.0\ESTUDENT.Models.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Models\bin\Debug\net6.0\ESTUDENT.Models.pdb
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Models\obj\Debug\net6.0\ESTUDENT.Models.csproj.AssemblyReference.cache
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Models\obj\Debug\net6.0\ESTUDENT.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Models\obj\Debug\net6.0\ESTUDENT.Models.AssemblyInfoInputs.cache
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Models\obj\Debug\net6.0\ESTUDENT.Models.AssemblyInfo.cs
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Models\obj\Debug\net6.0\ESTUDENT.Models.csproj.CoreCompileInputs.cache
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Models\obj\Debug\net6.0\ESTUDENT.Models.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Models\obj\Debug\net6.0\refint\ESTUDENT.Models.dll
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Models\obj\Debug\net6.0\ESTUDENT.Models.pdb
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Models\obj\Debug\net6.0\ref\ESTUDENT.Models.dll

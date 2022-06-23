@@ -19,7 +19,9 @@ namespace ESTUDENT.Data
         
         [Column("assistant")]
         public string Assistant { get; set; }
-
+       
+        [Column("date")]
+        public DateTime Date { get; set; }
 
 
     }

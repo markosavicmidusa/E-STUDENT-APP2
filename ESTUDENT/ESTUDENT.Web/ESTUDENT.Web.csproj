@@ -8,15 +8,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.2" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.2" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.2" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\STUDENT.Repositories\ESTUDENT.Repositories.csproj" />
+    <ProjectReference Include="..\ESTUDENT.Models\ESTUDENT.Models.csproj" />
+    <ProjectReference Include="..\ESTUDENT.Resource\ESTUDENT.Resource.csproj" />
+    <ProjectReference Include="..\ESTUDENT.Services\ESTUDENT.Services.csproj" />
   </ItemGroup>
 
 </Project>

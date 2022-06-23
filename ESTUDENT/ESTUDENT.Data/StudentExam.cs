@@ -18,5 +18,10 @@ namespace ESTUDENT.Data
 
         [Column("exam_id")]
         public int ExamId { get; set; }
+
+        [Column("status")]
+        public string Status { get; set; }
+
+
     }
 }

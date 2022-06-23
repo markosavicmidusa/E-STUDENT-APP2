@@ -1,0 +1,24 @@
+﻿@inject IHtmlLocalizer<CultureDropdown> localizer
+@inject Microsoft.Extensions.Options.IOptions<Microsoft.AspNetCore.Builder.RequestLocalizationOptions> localizationOptions
+
+
+
+@{
+	var culture = Context.Features.Get<Microsoft.AspNetCore.Localization.IRequestCultureFeature>();
+	var cultureList = localizationOptions.Value.SupportedUICultures.Select(x => new SelectListItem { Value = x.Name, Text = localizer.GetString(x.Name) }).ToList();
+	var returnUrl = string.IsNullOrWhiteSpace(Context.Request.Path) ? "~/" : $"~{Context.Request.Path.Value}{Context.Request.QueryString}";
+
+}
+<div class="dropdown">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+    @culture.RequestCulture.UICulture.DisplayName
+  </a>
+  <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+        @foreach (var item in cultureList)
+        {
+            <li><a class="dropdown-item" asp-area="" asp-controller="Base" asp-action="CultureManagement" asp-route-culture="@item.Value" 
+                asp-route-returnUrl="@returnUrl" style="text-decoration: none !important;">@item.Text</a></li>        
+        }
+
+  </ul>
+</div>

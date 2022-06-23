@@ -1,0 +1,44 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ESTUDENT.Resource/1.0.0": {
+        "dependencies": {
+          "ESTUDENT.Models": "1.0.0"
+        },
+        "runtime": {
+          "ESTUDENT.Resource.dll": {}
+        },
+        "resources": {
+          "en/ESTUDENT.Resource.resources.dll": {
+            "locale": "en"
+          },
+          "sr/ESTUDENT.Resource.resources.dll": {
+            "locale": "sr"
+          }
+        }
+      },
+      "ESTUDENT.Models/1.0.0": {
+        "runtime": {
+          "ESTUDENT.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ESTUDENT.Resource/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ESTUDENT.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

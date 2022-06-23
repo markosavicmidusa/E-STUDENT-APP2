@@ -1,0 +1,45 @@
+﻿
+@{
+	Layout = null;
+    var number=0;
+}
+
+@foreach ( var item in Model)
+{
+        { number++;}
+    <tr style="display:none" class="row-helper">
+        
+        <td >
+            <div class="counter-rows">
+                <p  class="text-xs font-weight-bold mb-0" >@number</p>
+            </div> 
+        </td>
+        <td>
+          <p class="text-xs font-weight-bold mb-0">@item.Name</p>
+        </td>
+         <td >
+          <p class="text-xs font-weight-bold mb-0">@item.Description.Substring(0,35)...</p>
+          
+        </td>
+        <td class="align-middle text-center">
+          <p class="text-xs font-weight-bold mb-0">@item.Professor</p>
+        </td>
+        <td class="align-middle text-center">
+          <span class="text-secondary text-xs font-weight-bold">@item.Assistant</span>
+        </td>
+        <td class="align-middle text-center">
+          <span class="text-secondary text-xs font-weight-bold">@item.Year</span>
+        </td>
+        <td class="align-middle text-center">
+        <a asp-area="Administration" asp-action="Edit" asp-controller="Exam"  asp-route-id="@item.Id" class="  text-xs "> Edit</a>
+        </td>
+         <td class="align-middle text-center">
+        <a asp-area="Administration" asp-action="Edit" asp-controller="Exam"  asp-route-id="@item.Id" class="  text-xs "> Delete</a>
+        </td>
+    
+    </tr>   
+
+     
+   
+
+}

@@ -1,0 +1,10 @@
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Resources\obj\Debug\net6.0\ESTUDENT.Resou.csproj.AssemblyReference.cache
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Resources\obj\Debug\net6.0\ESTUDENT.Resources.Resources.DataAnnotations.DataAnnotations.en.resources
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Resources\obj\Debug\net6.0\ESTUDENT.Resources.Resources.DataAnnotations.DataAnnotations.sr.resources
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Resources\obj\Debug\net6.0\ESTUDENT.Resources.Resources.Views.CultureDropdown.en.resources
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Resources\obj\Debug\net6.0\ESTUDENT.Resources.Resources.Views.CultureDropdown.sr.resources
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Resources\obj\Debug\net6.0\ESTUDENT.Resou.csproj.GenerateResource.cache
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Resources\obj\Debug\net6.0\ESTUDENT.Resou.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Resources\obj\Debug\net6.0\ESTUDENT.Resou.AssemblyInfoInputs.cache
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Resources\obj\Debug\net6.0\ESTUDENT.Resou.AssemblyInfo.cs
+D:\ISPIT .NET\ESTUDENT\ESTUDENT.Resources\obj\Debug\net6.0\ESTUDENT.Resou.csproj.CoreCompileInputs.cache
